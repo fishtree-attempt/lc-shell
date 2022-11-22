@@ -28,6 +28,9 @@
     <loc>https://preview.carpentries.org/lc-shell/about.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/lc-shell/aio.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/lc-shell/contribute.html</loc>
   </url>
   <url>
@@ -38,6 +41,9 @@
   </url>
   <url>
     <loc>https://preview.carpentries.org/lc-shell/guide.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/lc-shell/images.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/lc-shell/index.html</loc>
@@ -70,6 +76,9 @@
     <loc>https://preview.carpentries.org/lc-shell/instructor/about.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/lc-shell/instructor/aio.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/lc-shell/instructor/contribute.html</loc>
   </url>
   <url>
@@ -82,7 +91,16 @@
     <loc>https://preview.carpentries.org/lc-shell/instructor/guide.html</loc>
   </url>
   <url>
+    <loc>https://preview.carpentries.org/lc-shell/instructor/images.html</loc>
+  </url>
+  <url>
     <loc>https://preview.carpentries.org/lc-shell/instructor/index.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/lc-shell/instructor/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/lc-shell/instructor/key-points.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/lc-shell/instructor/profiles.html</loc>
@@ -92,6 +110,12 @@
   </url>
   <url>
     <loc>https://preview.carpentries.org/lc-shell/instructor/setup.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/lc-shell/instructor-notes.html</loc>
+  </url>
+  <url>
+    <loc>https://preview.carpentries.org/lc-shell/key-points.html</loc>
   </url>
   <url>
     <loc>https://preview.carpentries.org/lc-shell/profiles.html</loc>
