@@ -193,8 +193,6 @@ you've been using for the lesson and by using the text editor of your choice (e.
 file, make sure it has the extension **.sh** (e.g. `my_first_bash_script.sh`). When you've done this, you can run the
 Bash script by typing the command bash and the file name via the command line (e.g. `bash my_first_bash_script.sh`).
 
-:::::::::::::::::::::::::::::::::::  language-bash
-
 ```
 #!/bin/bash
 # This script loops through .txt files, returns the file name, first line, and last line of the file
@@ -209,8 +207,6 @@ done
 
 Download/copy [my\_first\_bash\_script.sh](https://raw.githubusercontent.com/LibraryCarpentry/lc-shell/gh-pages/files/my_first_bash_script.sh). For more on Bash scripts, see [Bash Scripting Tutorial - Ryans Tutorials](https://ryanstutorials.net/bash-scripting-tutorial/).
 
-
-::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
